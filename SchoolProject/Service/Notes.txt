@@ -1,0 +1,2 @@
+﻿Service takes queries from client and executes them and sometimes returns something to the client. 
+we need to work on this right now.
