@@ -1,1 +1,1 @@
-﻿Client only makes requests to the server for queries. I will show you guys how to do this part in later week.
+﻿Client only makes requests to the server for queries. I will show you guys how to do this part in later week
